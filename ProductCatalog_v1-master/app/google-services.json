@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "950457879015",
+    "firebase_url": "https://smarticles-ddc88.firebaseio.com",
+    "project_id": "smarticles-ddc88",
+    "storage_bucket": "smarticles-ddc88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950457879015:android:2c51156c18fb5b92",
+        "android_client_info": {
+          "package_name": "mgarzon.createbest.productcatalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950457879015-kfr6blkn74pdr7gltokfvc0cte4o9fjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFdf216Qt6ybYs8C9l83ZeXuflDl7Df2w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
